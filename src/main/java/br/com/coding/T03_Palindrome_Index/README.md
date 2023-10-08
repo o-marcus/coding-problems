@@ -7,7 +7,7 @@ remove.
 
 Example
 
-8 = "bcbc”
+s = "bcbc”
 
 Either remove ‘b’ at index 0 or ‘c’ at index 3.
 
