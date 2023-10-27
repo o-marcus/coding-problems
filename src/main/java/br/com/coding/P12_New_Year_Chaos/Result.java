@@ -17,6 +17,7 @@ class Result {
      * The function accepts INTEGER_ARRAY q as parameter.
      */
     public static void minimumBribes(List<Integer> q) {
+
         int swap = 0;
         int pos = 0;
         for (int i = q.size() - 1; i >= 0; i--) {
@@ -37,6 +38,7 @@ class Result {
             pos++;
         }
         System.out.println(swap);
+
     }
 
 }
