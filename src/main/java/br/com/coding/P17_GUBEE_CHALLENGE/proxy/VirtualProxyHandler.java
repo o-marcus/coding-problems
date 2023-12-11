@@ -9,6 +9,10 @@ import java.lang.reflect.Proxy;
 import java.util.Objects;
 import java.util.function.Supplier;
 
+
+/*  Essa classe é genérica e pode ter que instanciar um banco de dados de verdade,
+ por isso a inicialização da instância do banco com um Supplier.
+*/
 public final class VirtualProxyHandler<S>
         implements InvocationHandler, Serializable {
 
