@@ -14,4 +14,4 @@ podemos salvar quais produtos ele compra, suas informações pessoais e assim po
 
 ### Diagrama de classes
 
-![gubee_challenge.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FUsers%2Fmarcu%2FDesktop%2Fgubee_challenge.png)
+![gubee_challenge.png](gubee_challenge.png)
